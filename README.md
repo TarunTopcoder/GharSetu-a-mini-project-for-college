@@ -1,4 +1,4 @@
-# GharSetu
+# GharSetu-a-mini-project-for-college
 
 **Find Your Space. Find Your Home.**
 
